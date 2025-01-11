@@ -1,8 +1,10 @@
 # fastapi
 a simple blog post API built using FastAPI that includes:
 
-Create, Read, Update, Delete (CRUD) functionality
-Automatic validation with Pydantic
-Fast, async-friendly architecture
-Auto-generated interactive docs (Swagger & OpenAPI)
-With its speed and ease of use, FastAPI makes developing robust APIs faster and cleaner.
+# Features
+Retrieve Posts: Fetch all posts or a specific post by ID.
+Create Posts: Add new blog posts with optional ratings.
+Update Posts: Modify existing posts by ID.
+Delete Posts: Remove a post by ID.
+Get Latest Post: Retrieve the most recently added post.
+
